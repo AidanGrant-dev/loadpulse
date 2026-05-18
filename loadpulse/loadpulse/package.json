@@ -1,9 +1,0 @@
-{
-  "name": "loadpulse",
-  "version": "1.0.0",
-  "description": "Athlete load management dashboard",
-  "engines": { "node": ">=18" },
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
